@@ -52,6 +52,8 @@ const Home = () => {
 <a href='about' style={{textDecoration:'none'}}> <button  className="qaz"><h1 style={{fontSize:20, color:'white'}} >Know About Me !  </h1></button></a>
 
 </div>
+<br/>
+<br/>
 <div className='cgs1'>
 <a href='projects' style={{textDecoration:'none'}}> <button  className="qaz"><h1 style={{fontSize:20, color:'white'}} >See my Works  </h1></button></a>
 
@@ -62,8 +64,7 @@ const Home = () => {
 <a href='contact' style={{textDecoration:'none'}}> <button  className="qaz"><h1 style={{fontSize:20, color:'white'}} >Say Hi !  </h1></button></a>
 
 </div>
-<br/>
-<br/>
+
 
 
   </div>       
