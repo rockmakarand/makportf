@@ -144,7 +144,7 @@ const About = () => {
           </div>
           
           <div className='lmv'data-aos="fade-out">
-          <a href='https://drive.google.com/file/d/1TQSFk6RkhhGKKL3NlUikzAvxYqEb_gBq/view?usp=sharing'><button style={{color:'white',borderRadius:20}}className="hiz"><h2>View Resume</h2></button>
+          <a href='https://drive.google.com/file/d/1TQSFk6RkhhGKKL3NlUikzAvxYqEb_gBq/view?usp=sharing'><button style={{color:'white',borderRadius:30}}className="hiz"><h2>View Resume</h2></button>
   </a>
   <br/>
   <br/>

@@ -18,7 +18,7 @@
 .hizz{
     width: 16vw;
     height: 8vh;
-    background-image: linear-gradient(to right, lightblue,skyblue,violet);
+    background-image: linear-gradient(to right,#b92b27, #1565c0);
 
 }
 .vee{

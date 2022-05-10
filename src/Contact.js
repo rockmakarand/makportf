@@ -66,7 +66,7 @@ const Contact = () => {
   <input name="message" id="mess" type="mess" style={{height:100,backgroundColor:'#CBEEF3'}}className='pz'placeholder="Message"></input>
   <br/>
   <br/>
-  <button type="submit"style={{color:'white',borderRadius:20,}}className="hi"><h2>Send Message</h2></button>
+  <button type="submit"style={{color:'white',borderRadius:30,}}className="hi"><h2>Send Message</h2></button>
   
    <br/>
    <br/>  

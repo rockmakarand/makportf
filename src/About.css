@@ -39,7 +39,7 @@
     width: 16vw;
     height: 8vh;
     transform: translate(0,15vh);
-    background-image:  linear-gradient(to right, lightblue,skyblue,violet);}
+    background-image:  linear-gradient(to right, #cc2b5e, #753a88);}
 .bi{
     width:20vw ;
 
@@ -93,7 +93,7 @@
 }
 .ww{
     transform: translate(70vw,0);
-    color:  linear-gradient(to right, lightblue,skyblue,violet);}
+    color:  linear-gradient(to right, #cc2b5e, #753a88);}
 .cgs2{
     display: none;
 }

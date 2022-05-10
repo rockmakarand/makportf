@@ -22,7 +22,7 @@
     width: 13vw;
     height: 8vh;
 
-background-image: linear-gradient(to right, lightblue,skyblue,violet);}
+background-image: linear-gradient(to right, #ad5389, #3c1053);}
 .kk{
     display: flex;
     justify-content: space-evenly;
@@ -63,7 +63,7 @@ background-image: linear-gradient(to right, lightblue,skyblue,violet);}
         
         height: 10vh;
     
-    background-image: linear-gradient(to right, lightblue,skyblue,violet);}
+    background-image: linear-gradient(to right, #cc2b5e, #753a88);}
     .mm{
         
         transform: translate(0,0);

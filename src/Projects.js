@@ -88,7 +88,7 @@ const Projects = () => {
 <div className='vee'>
   <div className='ve'>
   <a href='https://jeenotesbynittstudents.netlify.app/
-'><button style={{color:'white',marginLeft:30}}className="hizz"><h2>ReactJs Website</h2></button></a>
+'><button style={{color:'white',marginLeft:30,borderRadius:30}}className="hizz"><h2>ReactJs Website</h2></button></a>
 <br/>
 <br/>
 <br/>
@@ -97,7 +97,7 @@ const Projects = () => {
     </div>
     <div className='ve'>
     <a href='https://jeenotesnext.vercel.app/
-'><button style={{color:'white',marginLeft:30}}className="hizz"><h2>NextJs Website</h2></button></a>
+'><button style={{color:'white',marginLeft:30,borderRadius:30}}className="hizz"><h2>NextJs Website</h2></button></a>
 <br/>
 <br/>
 </div>
