@@ -10,7 +10,8 @@ import Home from './Home';
 import Contact from './Contact';
 import Projects from './Projects';
 import About from './About'; 
-import Indexx from './Components/Navbar/index'
+import Indexx from './Components/Navbar/index' 
+import P from './P'
 // eslint-disable-next-line no-unused-vars
 //import Firestore from './Components/Firestore'
 
@@ -38,6 +39,9 @@ function App() {
           </Route>
           <Route exact path="/about">
             <About />
+          </Route>
+          <Route exact path="/p">
+            <P />
           </Route>
         
          

@@ -72,7 +72,7 @@
 }
     .hi{
         width: 60vw;
-        background-image: linear-gradient(to right, lightblue,skyblue,violet);
+        background-image: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
 
     }
     .trr{
