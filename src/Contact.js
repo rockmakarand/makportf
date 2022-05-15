@@ -34,6 +34,9 @@ const Contact = () => {
     <StyledHome>
       
       <br/>
+      <br/>
+      <br/>
+      <br/>
       <h1 style={{fontSize:50}} className="ew" >Get In Touch..</h1>
       <br/>
       <h2 className='ew' style={{fontWeight:400}}>Do you fancy saying hi to me or you want to start a project with me...just send a message! </h2>

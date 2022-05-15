@@ -5,12 +5,18 @@ import styled from 'styled-components';
 export const Nav = styled.nav`
   background: #000;
   height: 80px;
+  position:fixed;
+  width:70vw;
   display: flex;
   justify-content: space-between;
   padding: 0.5rem calc((100vw - 1000px) / 2);
   z-index: 10;
   /* Third Nav */
   /* justify-content: flex-start; */
+  @media screen and (max-width: 768px) {
+    width:100vw;
+    position:relative;
+  }
 `;
 
 export const NavLink = styled(Link)`

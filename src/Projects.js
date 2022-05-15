@@ -3,6 +3,8 @@
 import './Projects.css'
 import React,{useEffect,useState} from 'react'
 import './About.css'
+import 'react-icons'
+
 
 import Aos from "aos"
 import "aos/dist/aos.css"
@@ -36,12 +38,16 @@ const Projects = () => {
        <ThemeProvider theme={theme === "light" ? lightTheme : darkTheme}>
     <GlobalStyles />
     <StyledHome>
-
+<br/>
+<br/>
+<br/>
+<br/>
 
     <h1 style={{fontSize:50,color:'#A393BF',textAlign:'center'}} ><b>Projects and Recent work experience</b></h1>
     <br/>
     <br/>
 <br/>
+
 <div class="bits">
         <div class="uts">
         <h1 style={{marginLeft:30,fontFamily:'sans-serif',color:'darkmagenta'}}><b>JEE Counselling App which I Made:</b></h1>
