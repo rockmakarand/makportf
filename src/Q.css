@@ -1,0 +1,29 @@
+.qaz2{
+    transform: translate(10vw,10vh);
+    width: 250px;
+    height: 60px;
+  
+  background-image: linear-gradient(to right, #ad5389, #3c1053);}
+  .qaz3{
+    transform: translate(60vw,10vh);
+    width: 250px;
+    height: 60px;
+  
+  background-image: linear-gradient(to right, #ad5389, #3c1053);
+}
+  @media screen and (max-width:1000px) {
+    .qaz3{
+        transform: translate(15vw,12vh);
+        width: 250px;
+        height: 60px;
+      
+      background-image: linear-gradient(to right, #ad5389, #3c1053);
+    }
+    .qaz2{
+        transform: translate(15vw,10vh);
+        width: 250px;
+        height: 60px;
+      
+      background-image: linear-gradient(to right, #ad5389, #3c1053);}
+      
+  }

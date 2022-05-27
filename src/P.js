@@ -49,6 +49,10 @@ const P = () => {
 
   </div>
 </div>
+<a href='q' style={{textDecoration:'none'}}> <button  className="qaz1"><h1 style={{fontSize:20, color:'white'}} >See More Posts  </h1></button></a>
+<br/>
+    <br/>
+    <br/>
   </div>
   )
 }

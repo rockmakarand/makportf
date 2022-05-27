@@ -17,6 +17,12 @@
 border-top-right-radius: 30px;
 border-top-left-radius: 30px;
 }
+.qaz1{
+  transform: translate(80vw,10vh);
+  width: 250px;
+  height: 60px;
+
+background-image: linear-gradient(to right, #ad5389, #3c1053);}
 .uuy{
   padding-left: 20px;
   padding-right: 10px;
@@ -30,6 +36,12 @@ border-top-left-radius: 30px;
 
 }
 @media screen and (max-width:1000px){
+  .qaz1{
+    transform: translate(12vw,3vh);
+    width: 250px;
+    height: 60px;
+  
+  background-image: linear-gradient(to right, #ad5389, #3c1053);}
   .cont{
     display: block;
   }

@@ -12,6 +12,7 @@ import Projects from './Projects';
 import About from './About'; 
 import Indexx from './Components/Navbar/index' 
 import P from './P'
+import Q from './Q';
 // eslint-disable-next-line no-unused-vars
 //import Firestore from './Components/Firestore'
 
@@ -42,6 +43,9 @@ function App() {
           </Route>
           <Route exact path="/p">
             <P />
+          </Route>
+          <Route exact path="/q">
+            <Q />
           </Route>
         
          
