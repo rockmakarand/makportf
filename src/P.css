@@ -1,64 +1,13 @@
-@import "https://fonts.googleapis.com/css?family=Josefin+Sans:400,700";
-.cont{
-  display: flex;
 
+.P {
+  width: 100vw;
+  height: auto;
+  display: block;
+  align-items: center;
+  flex-direction: column;
 }
-.contj{
-  height: 60vh;
-  width: 30vw;
-  margin-left: auto;
-  margin-right: auto;
-  box-shadow: 0px 0px 10px lightblue;
-  border-radius: 30px;
-}
-.nqa{
-  width: 30vw;
-  height: 40vh;
-border-top-right-radius: 30px;
-border-top-left-radius: 30px;
-}
-.qaz1{
-  transform: translate(80vw,10vh);
-  width: 250px;
-  height: 60px;
 
-background-image: linear-gradient(to right, #ad5389, #3c1053);}
-.uuy{
-  padding-left: 20px;
-  padding-right: 10px;
-  font-weight: 500;
-  font-size: 20px;
-}
-.contj:hover{
-  transform: translatey(-10px);
-  transition: 0.7s;
-  
-
-}
-@media screen and (max-width:1000px){
-  .qaz1{
-    transform: translate(12vw,3vh);
-    width: 250px;
-    height: 60px;
-  
-  background-image: linear-gradient(to right, #ad5389, #3c1053);}
-  .cont{
-    display: block;
-  }
-  .contj{
-    height: 50vh;
-    width: 80vw;
-    margin-left: auto;
-    margin-right: auto;
-    box-shadow: 0px 0px 10px lightblue;
-    border-radius: 30px;
-   
-  }
-  .nqa{
-    width: 80vw;
-    height: 30vh;
-  border-top-right-radius: 30px;
-  border-top-left-radius: 30px;
-  }
-  
+img {
+  width: 300px;
+  margin: 10px;
 }

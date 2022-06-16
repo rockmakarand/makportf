@@ -24,6 +24,12 @@ const NavBar = () => {
        color:'black'
         
       },
+      {
+        text: 'Upload Resume',
+        link: '/p',
+       color:'black'
+        
+      },
      
      
     ],
